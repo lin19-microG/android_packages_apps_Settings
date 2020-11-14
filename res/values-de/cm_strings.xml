@@ -104,4 +104,7 @@
     <string name="wake_when_plugged_or_unplugged_summary">Beim Anschließen oder Trennen einer Stromquelle den Bildschirm einschalten</string>
     <string name="fast_charging_title">Schnelles Laden</string>
     <string name="fast_charging_summary">Deaktivieren, um die vom Gerät beim Laden erzeugte Wärme zu reduzieren oder die Lebensdauer des Akkus zu verlängern</string>
+    <string name="sensor_access_summary">Sensorzugriff von Benutzer-Apps kontrollieren</string>
+    <string name="sensor_access_title">Zugriff auf Sensoren</string>
+    <string name="sensor_access_title_empty_text">Keine installierte App hat Sensorzugriff angefordert.</string>
 </resources>
