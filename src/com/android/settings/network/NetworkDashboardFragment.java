@@ -100,6 +100,8 @@ public class NetworkDashboardFragment extends DashboardFragment implements
                 new VpnPreferenceController(context);
         final PrivateDnsPreferenceController privateDnsPreferenceController =
                 new PrivateDnsPreferenceController(context);
+        final IptabBlockScriptModePreferenceController iptabBlockScriptModePreferenceController =
+                new IptabBlockScriptModePreferenceController(context);
 
         if (lifecycle != null) {
             lifecycle.addObserver(mobilePlanPreferenceController);
@@ -122,6 +124,7 @@ public class NetworkDashboardFragment extends DashboardFragment implements
         ConnectivityCheckPreferenceController connectivityCheck =
                 new ConnectivityCheckPreferenceController(context);
         controllers.add(connectivityCheck);
+        controllers.add(iptabBlockScriptModePreferenceController);
         return controllers;
     }
 
