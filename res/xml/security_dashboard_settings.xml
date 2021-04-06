@@ -63,6 +63,12 @@
             android:entries="@array/auto_reboot_entries"
             android:entryValues="@array/auto_reboot_values" />
 
+        <SwitchPreference
+            android:key="native_debug"
+            android:title="@string/native_debug_title"
+            android:summary="@string/native_debug_summary"
+            android:persistent="false" />
+
         <com.android.settingslib.RestrictedPreference
             android:key="biometric_settings"
             android:title="@string/security_settings_biometric_preference_title"
