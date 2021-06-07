@@ -650,6 +650,9 @@
     <!-- Text shown for the description of the lock when trust lost option [CHAR LIMIT=NONE -->
     <string name="trust_lost_locks_screen_summary">If enabled, the device will lock when the last trust agent loses trust</string>
 
+    <string name="auto_reboot_title">Auto reboot</string>
+    <string name="auto_reboot_summary">Automatically reboot the device, if the phone hasn\'t been unlocked within the selected number of hours.</string>
+
     <!-- Text shown for summary of owner info setting (if none set) [CHAR LIMIT=40]-->
     <string name="owner_info_settings_summary">None</string>
     <!-- Description of how many characters are used in owner info [CHAR LIMIT=40]-->
