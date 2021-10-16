@@ -5169,6 +5169,7 @@
     <string name="preferred_network_mode_evdo_only_summary" msgid="613903666107299289">"Bevorzugter Netzmodus: nur EvDo"</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary" msgid="5643603478619124717">"Bevorzugter Netzmodus: CDMA/EvDo/GSM/WCDMA"</string>
     <string name="preferred_network_mode_lte_summary" msgid="4236015557975544307">"Bevorzugter Netzmodus: LTE"</string>
+    <string name="preferred_network_mode_lte_only_summary">Bevorzugter Netzmodus: Nur LTE</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary" msgid="1377100995001285751">"Bevorzugter Netzmodus: GSM/WCDMA/LTE"</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary" msgid="1221806410911793222">"Bevorzugter Netzmodus: CDMA+LTE/EVDO"</string>
     <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary" msgid="8974263692041299883">"Bevorzugter Netzmodus: LTE/CDMA/EvDo/GSM/WCDMA"</string>
@@ -5199,7 +5200,9 @@
     <string name="preferred_network_mode_nr_lte_tdscdma_cdma_evdo_gsm_wcdma_summary" msgid="3396717432149544381">"Bevorzugter Netzmodus: NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA"</string>
     <string name="network_5G_recommended" msgid="4769018972369031538">"5G (empfohlen)"</string>
     <string name="network_lte" msgid="2449425437381668780">"LTE (empfohlen)"</string>
+    <string name="network_lte_only">Nur LTE</string>
     <string name="network_4G" msgid="9018841362928321047">"4G (empfohlen)"</string>
+    <string name="network_4G_only">Nur 4G</string>
     <string name="label_available" msgid="5305726869955838606">"Verfügbare Netzwerke"</string>
     <string name="load_networks_progress" msgid="4717874401621250401">"Wird gesucht…"</string>
     <string name="register_on_network" msgid="2169662800750709709">"Registrierung in <xliff:g id="NETWORK">%s</xliff:g>..."</string>
