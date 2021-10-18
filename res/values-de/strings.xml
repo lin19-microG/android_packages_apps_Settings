@@ -5632,4 +5632,7 @@
     <string name="connectivity_check_title">Captive Portal Prüfung</string>
     <string name="connectivity_check_summary">HTTP Endpunkte zur Durchführung von Internet-Verbindungstests.</string>
     <string name="user_disallow_install_apps_unknown_sources">App Installation aus unbekannten Quellen verbieten</string>
+    <string name="security_settings_fingerprint_settings_screen_lock_category">Gerät entsperren</string>
+    <string name="security_settings_fingerprint_settings_use_fingerprint_unlock_phone_title">Entsperren mit Fingerabdruck erlauben</string>
+    <string name="security_settings_fingerprint_settings_use_fingerprint_unlock_phone_summary">Erlaubt das Entsperren des Geräts mit Fingerabdruck. Ist dies verboten, können Fingerabdrücke trotzdem in Apps verwendet werden.</string>
 </resources>
