@@ -13118,6 +13118,9 @@
     <!-- UI debug setting: Force enable "smart dark" UI rendering feature summary [CHAR LIMIT=NONE] -->
     <string name="hwui_force_dark_summary">Overrides the force-dark feature to be always-on</string>
 
+    <string name="exec_spawn_title">Enable secure app spawning</string>
+    <string name="exec_spawn_summary">Launch apps in a more secure way than Android which takes slightly longer and increases memory usage by app processes.</string>
+
     <string name="native_debug_title">Enable native code debugging</string>
     <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
 
