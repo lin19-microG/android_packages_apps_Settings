@@ -5604,7 +5604,8 @@
     <string name="bluetooth_timeout_summary_4hours">4 Stunden</string>
     <string name="bluetooth_timeout_summary_8hours">8 Stunden</string>
     <string name="wifi_timeout">WLAN Auto-Abschaltung</string>
-    <string name="wifi_timeout_summary">WLAN nach <xliff:g id="timeout_description">%1$s</xliff:g> ohne Verbindung deaktivieren</string>
+    <string name="wifi_timeout_summary">WLAN ohne Verbindung nach Ablauf einer definierten Zeit automatisch ausschalten.</string>
+    <string name="wifi_timeout_summary1">WLAN nach <xliff:g id="timeout_description">%1$s</xliff:g> ohne Verbindung deaktivieren</string>
     <string name="wifi_timeout_summary2">Deaktiviert</string>
     <string name="wifi_timeout_summary_never">Nie</string>
     <string name="wifi_timeout_summary_15secs">15 Sekunden</string>
