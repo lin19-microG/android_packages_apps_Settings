@@ -5628,4 +5628,5 @@
     <string name="hosts_disable_summary">Deaktiviert den mitgelieferten /etc/hosts Werbeblocker gegen Datensammler und Malware.</string>
     <string name="connectivity_check_title">Captive Portal Prüfung</string>
     <string name="connectivity_check_summary">HTTP Endpunkte zur Durchführung von Internet-Verbindungstests.</string>
+    <string name="user_disallow_install_apps_unknown_sources">App Installation aus unbekannten Quellen verbieten</string>
 </resources>
