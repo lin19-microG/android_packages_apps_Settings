@@ -5636,4 +5636,6 @@
     <string name="security_settings_fingerprint_settings_use_fingerprint_unlock_phone_title">Entsperren mit Fingerabdruck erlauben</string>
     <string name="security_settings_fingerprint_settings_use_fingerprint_unlock_phone_summary">Erlaubt das Entsperren des Geräts mit Fingerabdruck. Ist dies verboten, können Fingerabdrücke trotzdem in Apps verwendet werden.</string>
     <string name="storage_scopes">Bereichsbezogener Speicher</string>
+    <string name="allow_access_to_obb_directory_title">Zugriff zu Android/obb erlauben</string>
+    <string name="allow_access_to_obb_directory_summary">Wird zur Installation einiger großer Apps (z.B. Spiele) benötigt, die OBB Erweiterungen verwenden</string>
 </resources>
