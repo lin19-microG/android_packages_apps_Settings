@@ -5586,4 +5586,45 @@
     <string name="bluetooth_connect_access_dialog_content" msgid="4336436466468405850">"<xliff:g id="DEVICE_NAME_0">%1$s</xliff:g> möchte sich mit diesem Smartphone verbinden.\n\nDu hast dich bisher nicht mit <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g> verbunden."</string>
     <string name="bluetooth_connect_access_dialog_negative" msgid="4944672755226375059">"Nicht verbinden"</string>
     <string name="bluetooth_connect_access_dialog_positive" msgid="3630561675207269710">"Verbinden"</string>
+    <string name="auto_reboot_title">Automatischer Neustart</string>
+    <string name="auto_reboot_summary">Automatischer System-Neustart, wenn das Gerät nicht innerhalb der eingestellten Anzahl von Stunden entsperrt wurde</string>
+    <string name="bluetooth_timeout">Bluetooth Timeout</string>
+    <string name="bluetooth_timeout_summary">Bluetooth wird nach <xliff:g id="timeout_description">%1$s</xliff:g> ohne Verbindung deaktiviert</string>
+    <string name="bluetooth_timeout_summary2">Bluetooth nicht automatisch deaktivieren</string>
+    <string name="bluetooth_timeout_summary_never">Nie</string>
+    <string name="bluetooth_timeout_summary_15secs">15 Sekunden</string>
+    <string name="bluetooth_timeout_summary_30secs">30 Sekunden</string>
+    <string name="bluetooth_timeout_summary_1min">1 Minute</string>
+    <string name="bluetooth_timeout_summary_2mins">2 Minuten</string>
+    <string name="bluetooth_timeout_summary_5mins">5 Minuten</string>
+    <string name="bluetooth_timeout_summary_10mins">10 Minuten</string>
+    <string name="bluetooth_timeout_summary_30mins">30 Minuten</string>
+    <string name="bluetooth_timeout_summary_1hour">1 Stunde</string>
+    <string name="bluetooth_timeout_summary_2hours">2 Stunden</string>
+    <string name="bluetooth_timeout_summary_4hours">4 Stunden</string>
+    <string name="bluetooth_timeout_summary_8hours">8 Stunden</string>
+    <string name="wifi_timeout">WLAN Auto-Abschaltung</string>
+    <string name="wifi_timeout_summary">WLAN nach <xliff:g id="timeout_description">%1$s</xliff:g> ohne Verbindung deaktivieren</string>
+    <string name="wifi_timeout_summary2">Deaktiviert</string>
+    <string name="wifi_timeout_summary_never">Nie</string>
+    <string name="wifi_timeout_summary_15secs">15 Sekunden</string>
+    <string name="wifi_timeout_summary_30secs">30 Sekunden</string>
+    <string name="wifi_timeout_summary_1min">1 Minute</string>
+    <string name="wifi_timeout_summary_2mins">2 Minuten</string>
+    <string name="wifi_timeout_summary_5mins">5 Minuten</string>
+    <string name="wifi_timeout_summary_10mins">10 Minuten</string>
+    <string name="wifi_timeout_summary_30mins">30 Minuten</string>
+    <string name="wifi_timeout_summary_1hour">1 Stunde</string>
+    <string name="wifi_timeout_summary_2hours">2 Stunden</string>
+    <string name="wifi_timeout_summary_4hours">4 Stunden</string>
+    <string name="wifi_timeout_summary_8hours">8 Stunden</string>
+    <string name="native_debug_title">Natives Debugging</string>
+    <string name="native_debug_summary">Nützliche Logs / Fehlerberichte aus Abstürzen generieren und nativen Code debuggen.</string>
+    <string name="user_disallow_install_apps">App Installation verbieten</string>
+    <string name="exec_spawn_title">Sichere App Ausführung</string>
+    <string name="exec_spawn_summary">Apps sicherer ausführen als Android Standard (dauert länger und ist resourcen-intensiver)</string>
+    <string name="hosts_disable_title">DNS Blocker deaktivieren</string>
+    <string name="hosts_disable_summary">Deaktiviert den mitgelieferten /etc/hosts Werbeblocker gegen Datensammler und Malware.</string>
+    <string name="connectivity_check_title">Captive Portal Prüfung</string>
+    <string name="connectivity_check_summary">HTTP Endpunkte zur Durchführung von Internet-Verbindungstests.</string>
 </resources>
