@@ -5583,4 +5583,56 @@
     <string name="bluetooth_connect_access_dialog_content" msgid="4336436466468405850">"<xliff:g id="DEVICE_NAME_0">%1$s</xliff:g> souhaite se connecter à ce téléphone.\n\nC\'est la première fois que votre téléphone se connecte à <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g>."</string>
     <string name="bluetooth_connect_access_dialog_negative" msgid="4944672755226375059">"Refuser la connexion"</string>
     <string name="bluetooth_connect_access_dialog_positive" msgid="3630561675207269710">"Autoriser la connexion"</string>
+    <string name="bluetooth_timeout">Arrêt de bluetooth</string>
+    <string name="bluetooth_timeout_summary">Le Bluetooth sera desactivé automatiquement après <xliff:g id="timeout_description">%1$s</xliff:g>, si aucune connexion</string>
+    <string name="bluetooth_timeout_summary2">Ne pas désactiver Bluetooth automatiquement</string>
+    <string name="bluetooth_timeout_summary_never">Jamais</string>
+    <string name="bluetooth_timeout_summary_15secs">15 secondes</string>
+    <string name="bluetooth_timeout_summary_30secs">30 secondes</string>
+    <string name="bluetooth_timeout_summary_1min">1 minute</string>
+    <string name="bluetooth_timeout_summary_2mins">2 minutes</string>
+    <string name="bluetooth_timeout_summary_5mins">5 minutes</string>
+    <string name="bluetooth_timeout_summary_10mins">10 minutes</string>
+    <string name="bluetooth_timeout_summary_30mins">30 minutes</string>
+    <string name="bluetooth_timeout_summary_1heure">1 heure</string>
+    <string name="bluetooth_timeout_summary_2heures">2 heures</string>
+    <string name="bluetooth_timeout_summary_4heures">4 heures</string>
+    <string name="bluetooth_timeout_summary_8heures">8 heures</string>
+    <string name="wifi_timeout">Arrêt automatique du WiFi</string>
+    <string name="wifi_timeout_summary">Déconnexion du Wi-Fi automatiquement après un temps défini.</string>
+    <string name="wifi_timeout_summary1">Le Wi-Fi s\'arrêtera automatiquement après <xliff:g id="timeout_description">%1$s</xliff:g>, si aucune connexion </string>
+    <string name="wifi_timeout_summary2">Désactivé</string>
+    <string name="wifi_timeout_summary_never">Jamais</string>
+    <string name="wifi_timeout_summary_15secs">15 secondes</string>
+    <string name="wifi_timeout_summary_30secs">30 secondes</string>
+    <string name="wifi_timeout_summary_1min">1 minute</string>
+    <string name="wifi_timeout_summary_2mins">2 minutes</string>
+    <string name="wifi_timeout_summary_5mins">5 minutes</string>
+    <string name="wifi_timeout_summary_10mins">10 minutes</string>
+    <string name="wifi_timeout_summary_30mins">30 minutes</string>
+    <string name="wifi_timeout_summary_1hour">1 heure</string>
+    <string name="wifi_timeout_summary_2hours">2 heures</string>
+    <string name="wifi_timeout_summary_4hours">4 heures</string>
+    <string name="wifi_timeout_summary_8hours">8 heures</string>
+    <string name="auto_reboot_title">Redémarrage automatique</string>
+    <string name="auto_reboot_summary">Redémarrer l\'appareil s\'il n\'a pas été dévérouillé pendant le temps configuré.</string>
+    <string name="user_disallow_install_apps">Interdire l\'installation d\'applications</string>
+    <string name="user_disallow_install_apps_unknown_sources">Interdire l\'installation des applications provenant de sources tierces</string>
+    <string name="preferred_network_mode_lte_only_summary">Mode de réseau préféré: Seulement LTE</string>
+    <string name="network_lte_only">Seulement LTE</string>
+    <string name="network_4G_only">Seulemnet 4G</string>
+    <string name="exec_spawn_title">Lancement sécurisé des applications</string>
+    <string name="exec_spawn_summary">Lancer les applications d\'une facon plus sécurisée qu\'Android standard (peut prendre plus de temps et de memoire) </string>
+    <string name="native_debug_title">Autoriser le débogage du code natif </string>
+    <string name="native_debug_summary">Création de logs et de rapport de plantages plus utiles et permettre le débogage du code natif.</string>
+    <string name="hosts_disable_title">Désactiver blocage de DNS</string>
+    <string name="hosts_disable_summary">Désactiver l\'usage de la database /etc/hosts, qui sert à éviter la collecte de données et les malwares</string>
+    <string name="connectivity_check_title">Vérification de la connectivité à internet</string>
+    <string name="connectivity_check_summary">Serveurs HTTP à utiliser pour la vérification de connectivité.</string>
+    <string name="security_settings_fingerprint_settings_screen_lock_category">Verouillage de l\'écran</string>
+    <string name="security_settings_fingerprint_settings_use_fingerprint_unlock_phone_title">Autoriser le déverouillage par lecteur d\'empreinte digitale</string>
+    <string name="security_settings_fingerprint_settings_use_fingerprint_unlock_phone_summary">Autoriser le déverouillage par lecteur d\'empreinte digitale. Même désactivé, les applications peuvent toujours l\'utiliser.</string>
+    <string name="storage_scopes">Stockage délimité</string>
+    <string name="allow_access_to_obb_directory_title">Autoriser l\'accès au répertoire Android/obb</string>
+    <string name="allow_access_to_obb_directory_summary">Requis pour l\'installation de certaines grosses applications (principalement des jeux) qui utilisent des fichiers d\'extension OBB</string>
 </resources>

@@ -581,4 +581,28 @@
     <!-- no translation found for rtt_setting_mode:1 (7903019313228349427) -->
     <!-- no translation found for rtt_setting_mode:2 (8525285145696236811) -->
     <!-- no translation found for rtt_setting_mode:3 (7725394146877517088) -->
+  <string-array name="auto_reboot_entries">
+    <item>Désactivé</item>
+    <item>10 minutes</item>
+    <item>30 minutes</item>
+    <item>1 heure</item>
+    <item>2 heures</item>
+    <item>4 heures</item>
+    <item>8 heures</item>
+    <item>12 heures</item>
+    <item>24 heures</item>
+    <item>36 heures</item>
+    <item>48 heures</item>
+    <item>72 heures</item>
+  </string-array>
+  <string-array name="connectivity_check_entries">
+    <item>GrapheneOS</item>
+    <item>Standard (Google)</item>
+    <item>Désactivé</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries_extended">
+    <item>Adresse MAC randomisée par connexion (par défaut)</item>
+    <item>Adresse MAC randomisée par network</item>
+    <item>Adresse MAC de l\'appareil</item>
+  </string-array>
 </resources>
